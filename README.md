@@ -1,3 +1,2 @@
-# nmap
-# to show my ip,netmask
+# script store
 
